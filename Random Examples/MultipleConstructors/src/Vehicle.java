@@ -3,6 +3,9 @@ public class Vehicle {
     int numOfWheels = 4;
     String color = "Red";
 
+
+
+
     /*This is a blank constructor to prevent errors when calling Vehicle with no variables.
     Default values are already applied so no code needs to be inside the constructor, but it could be assigned here.
     REQUIRED if no arguments are given, despite not doing anything itself */
@@ -11,6 +14,8 @@ public class Vehicle {
         this.numOfWheels = 4;
         this.color = "Red";
          */
+
+
     }
 
     public Vehicle(int numOfWheels)
