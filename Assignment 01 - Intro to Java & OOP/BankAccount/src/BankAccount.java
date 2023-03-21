@@ -1,19 +1,15 @@
 public class BankAccount {
 
-    int accountNumber;
-    String firstName;
-    String lastName;
-    String address;
-    double balance;
+    int accountNumber = 2;
+    String firstName = "empty";
+    String lastName = "empty";
+    String address = "empty";
+    double balance = 2;
 
 
     public BankAccount()
     {
-        this.accountNumber = 2;
-        this.firstName = "empty";
-        this.lastName = "empty";
-        this.address = "empty";
-        this.balance = 2;
+        /* Empty due to the BankAccount Class itself initializing the variables to the default values*/
     }
 
 
@@ -30,8 +26,8 @@ public class BankAccount {
         this.firstName = firstName;
         this.lastName = lastName;
         this.address = address;
-        this.accountNumber = 2;
-        this.balance = 2;
+        /* Account Number and Balance have been preset above. */
+
     }
 
     public void SetFirstName(String firstName) {
@@ -71,17 +67,41 @@ public class BankAccount {
     }
 
     public double GetBalance() {
-        return this.balance;
+        return this.balance; /* Not formatting due to balance potentially needed more than 3 digits */
+    }
+
+    public void Withdraw(double withdrawAmount) {
+
+        System.out.println("\nAttempting to Withdraw $"+String.format("%.2f",withdrawAmount)+" from "+this.firstName+"'s Bank Account");
+
+        if (this.balance < withdrawAmount)
+        {
+            System.out.println("You cannot withdraw more then you have in your Bank Account");
+            System.out.println("Current Balance: "+ String.format("%.2f",this.balance) +" | Withdraw amount requested: "+ withdrawAmount);
+        }
+        else
+        {
+            System.out.println("Old Balance: $"+ String.format("%.2f",this.balance));
+            this.balance -= withdrawAmount;
+            System.out.println("New Balance: $"+ String.format("%.2f",this.balance));
+        }
+
+    }
+
+    public void Deposit(double depositAmount) {
+        System.out.println("\nDepositing $"+String.format("%.2f",depositAmount) +" into "+this.firstName+"'s Bank Account");
+        this.balance += depositAmount;
+        System.out.println("New Balance: $"+ String.format("%.2f",this.balance));
     }
 
     public void DisplayAllInformation() {
-        System.out.println("BANK ACCOUNT INFORMATION");
+        System.out.println("\nBANK ACCOUNT INFORMATION");
         System.out.println("------------------------");
         System.out.println("First Name: "+ this.firstName);
         System.out.println("Last Name: "+ this.lastName);
         System.out.println("Address: "+ this.address);
         System.out.println("Account Number: "+ this.accountNumber);
-        System.out.println("Balance: "+ this.balance);
+        System.out.println("Balance: $"+ String.format("%.2f",this.balance));
     }
 
 
