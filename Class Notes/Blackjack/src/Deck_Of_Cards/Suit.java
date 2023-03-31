@@ -1,3 +1,5 @@
+package Deck_Of_Cards;
+
 public enum Suit {
     CLUB("Clubs"),
     DIAMOND("Diamonds"),

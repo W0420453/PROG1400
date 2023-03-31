@@ -1,3 +1,8 @@
+package Deck_Of_Cards;
+
+import Deck_Of_Cards.Card;
+import Deck_Of_Cards.Deck;
+
 import java.util.ArrayList;
 public class Hand {
     private ArrayList<Card> hand;
@@ -33,7 +38,8 @@ public class Hand {
                 aceCount ++;
             }
         }
-        //if we have a scenario where we have multiple aces, as may be the case of drawing 10, followed by two or more aces, (10+11+1 > 21)
+        //if we have a scenario where we have multiple aces, as may be the case of drawing 10,
+        // followed by two or more aces, (10+11+1 > 21)
         //go back and set each ace to 1 until get back under 21, if possible
         if (value > 21 && aceCount > 0){
             while(aceCount > 0 && value > 21){

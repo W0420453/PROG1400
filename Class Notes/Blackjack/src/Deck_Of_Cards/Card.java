@@ -1,3 +1,5 @@
+package Deck_Of_Cards;
+
 public class Card {
     //vars
     private Suit suit;

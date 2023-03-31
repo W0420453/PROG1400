@@ -1,3 +1,8 @@
+package Participants_BlackJack;
+
+import Deck_Of_Cards.Deck;
+import Deck_Of_Cards.Hand;
+
 public class Person {
     private String name;
     private Hand hand;

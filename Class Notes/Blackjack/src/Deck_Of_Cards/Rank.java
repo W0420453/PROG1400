@@ -1,3 +1,5 @@
+package Deck_Of_Cards;
+
 public enum Rank {
     ACE("Ace", 11),
     TWO("Two", 2),

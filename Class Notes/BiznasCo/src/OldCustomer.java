@@ -1,4 +1,4 @@
-public class Customer {
+public class OldCustomer {
     private int id;
     String firstName;
     String lastName;
@@ -14,6 +14,8 @@ public class Customer {
     public String getLastName() {return lastName;}
 
     private void setLastName(String lastName) { this.lastName = lastName;}
+
+    public OldCustomer() { this.id = 0;}
 
 
 }

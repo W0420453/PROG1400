@@ -1,3 +1,7 @@
+package Participants_BlackJack;
+
+import Deck_Of_Cards.Deck;
+
 public class Player extends Person {
 
     public Player() {
