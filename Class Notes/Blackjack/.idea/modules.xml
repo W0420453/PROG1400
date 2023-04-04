@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<<< HEAD:Definitions_Example_Code/Polymorphism/.idea/modules.xml
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism.iml" />
+========
+      <module fileurl="file://$PROJECT_DIR$/Blackjack.iml" filepath="$PROJECT_DIR$/Blackjack.iml" />
+>>>>>>>> 035ee4c089cfb135bd2216d4b6d242c326299741:Class Notes/Blackjack/.idea/modules.xml
+    </modules>
+  </component>
+</project>
