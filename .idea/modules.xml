@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class Notes/ClassesExample/ClassesExample.iml" filepath="$PROJECT_DIR$/Class Notes/ClassesExample/ClassesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PROG1400.iml" filepath="$PROJECT_DIR$/.idea/PROG1400.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random Examples/Random Examples.iml" filepath="$PROJECT_DIR$/Random Examples/Random Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Notes/Test/Test.iml" filepath="$PROJECT_DIR$/Class Notes/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Notes/TestJavaInstall/TestJavaInstall.iml" filepath="$PROJECT_DIR$/Class Notes/TestJavaInstall/TestJavaInstall.iml" />
+    </modules>
+  </component>
+</project>
