@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be09ad2e-d312-455c-8e5b-74b45eea765c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Assignment 01 - Intro to Java &amp; OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 01 - Intro to Java &amp; OOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/out/production/BiznasCo/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/out/production/BiznasCo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/out/production/BiznasCo/OldCustomer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/out/production/BiznasCo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/src/OldCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/out/production/Blackjack/Deck_Of_Cards/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/out/production/Blackjack/Deck_Of_Cards/Deck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/out/production/Blackjack/Deck_Of_Cards/Hand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/out/production/Blackjack/Deck_Of_Cards/Rank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/out/production/Blackjack/Deck_Of_Cards/Suit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/out/production/Blackjack/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/out/production/Blackjack/Participants_BlackJack/Dealer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/out/production/Blackjack/Participants_BlackJack/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/out/production/Blackjack/Participants_BlackJack/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/src/Deck_Of_Cards/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/src/Deck_Of_Cards/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/src/Deck_Of_Cards/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/src/Deck_Of_Cards/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/src/Deck_Of_Cards/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/src/Participants_BlackJack/Dealer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/src/Participants_BlackJack/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/src/Participants_BlackJack/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class Notes/MyFunctions/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dice/out/production/Dice/DiceGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dice/out/production/Dice/PairOfDice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dice/out/production/Dice/RollTwoPairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dice/src/DiceGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dice/src/PairOfDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dice/src/RollTwoPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/src/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/PROG1400.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/PROG1400.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment 01 - Intro to Java &amp; OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment 01 - Intro to Java &amp; OOP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/BiznasCo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/BiznasCo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/BiznasCo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/BiznasCo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/BiznasCo/BiznasCo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/BiznasCo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/BiznasCo/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/Blackjack/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/Blackjack/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/Blackjack/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/Blackjack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/Blackjack/Blackjack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/Blackjack/Blackjack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/MyFunctions/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/MyFunctions/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/MyFunctions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/MyFunctions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/MyFunctions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/MyFunctions/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/MyFunctions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/MyFunctions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/MyFunctions/MyFunctions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/MyFunctions/MyFunctions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Notes/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment 01 - Intro to Java &amp; OOP/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class Notes/BiznasCo/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/Polymorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment 01 - Intro to Java &amp; OOP/Assignment 01 - Intro to Java &amp; OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/Dynamic_Polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/ExampleChild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/ExampleParent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/Static_Polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/Dynamic_Polymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/ExampleChild.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/ExampleParent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/Static_Polymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dice/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dice/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dice/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dice/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dice/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dice/Dice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dice/Dice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/ICA01 - Card Class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/ICA01 - Card Class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/src/TestCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../In Class Assignments/ICA01 - Card Class/src/TestCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestJavaInstall/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TestJavaInstall/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NyTL6NWpwb5vOCfFYVMIkHkwPl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/labbe/Documents/Programming/PROG1400/Definitions_Example_Code/Polymorphism"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\labbe\Documents\Programming\PROG1400\Definitions_Example_Code\Inheritance\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\labbe\Documents\Programming\PROG1400\Definitions_Example_Code\Inheritance\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be09ad2e-d312-455c-8e5b-74b45eea765c" name="Changes" comment="" />
+      <created>1680635264158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680635264158</updated>
+    </task>
+    <servers />
+  </component>
+</project>

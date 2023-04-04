@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="953c99e1-6151-4371-a9dd-664e29b4f191" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/ExampleChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/ExampleParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExampleChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExampleParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static_Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/A01 - Intro to Java &amp; OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/MyArea/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/MyArea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/MyArea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/MyArea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/MyArea/MyArea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/MyArea/out/production/MyArea/MyArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/MyArea/src/MyArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/Paycheck/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/Paycheck/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/Paycheck/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/Paycheck/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/Paycheck/Paycheck.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/Paycheck/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/Paycheck/src/Paycheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/SmallestInt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/SmallestInt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/SmallestInt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/SmallestInt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/SmallestInt/SmallestInt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/SmallestInt/out/production/SmallestInt/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/SmallestInt/out/production/SmallestInt/SmallestInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A01 - Intro to Java &amp; OOP/SmallestInt/src/SmallestInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/ClassesExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/out/production/ClassesExample/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/out/production/ClassesExample/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/out/production/ClassesExample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/src/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassesExample/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestJavaInstall/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestJavaInstall/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestJavaInstall/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestJavaInstall/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestJavaInstall/TestJavaInstall.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestJavaInstall/out/production/TestJavaInstall/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestJavaInstall/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NySy0LwMeIIp7G2IyenstBlCGH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/labbe/Documents/Programming/PROG1400/Definitions_Example_Code/Inheritance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\labbe\Documents\Programming\PROG1400\Definitions_Example_Code\Polymorphism\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\labbe\Documents\Programming\PROG1400\Definitions_Example_Code\Polymorphism\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="953c99e1-6151-4371-a9dd-664e29b4f191" name="Changes" comment="" />
+      <created>1680635082018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680635082018</updated>
+    </task>
+    <servers />
+  </component>
+</project>
