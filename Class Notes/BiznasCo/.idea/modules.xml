@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<<< HEAD:Definitions_Example_Code/Inheritance/.idea/modules.xml
+      <module fileurl="file://$PROJECT_DIR$/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance.iml" />
+========
       <module fileurl="file://$PROJECT_DIR$/BiznasCo.iml" filepath="$PROJECT_DIR$/BiznasCo.iml" />
+>>>>>>>> 035ee4c089cfb135bd2216d4b6d242c326299741:Class Notes/BiznasCo/.idea/modules.xml
     </modules>
   </component>
 </project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<<< HEAD:Definitions_Example_Code/.idea/modules.xml
+      <module fileurl="file://$PROJECT_DIR$/Definitions_Example_Code.iml" filepath="$PROJECT_DIR$/Definitions_Example_Code.iml" />
+========
+      <module fileurl="file://$PROJECT_DIR$/Dice.iml" filepath="$PROJECT_DIR$/Dice.iml" />
+>>>>>>>> 8d4d97f3567a6ee6758b1e9484475dca00b3cede:Dice/.idea/modules.xml
+    </modules>
+  </component>
+</project>
