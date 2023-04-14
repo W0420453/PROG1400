@@ -1,0 +1,2 @@
+Username = CoolName
+Score = 3004
