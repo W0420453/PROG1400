@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BiznasCo/BiznasCo.iml" filepath="$PROJECT_DIR$/BiznasCo/BiznasCo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blackjack/Blackjack.iml" filepath="$PROJECT_DIR$/Blackjack/Blackjack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Class Notes.iml" filepath="$PROJECT_DIR$/.idea/Class Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesExample/ClassesExample.iml" filepath="$PROJECT_DIR$/ClassesExample/ClassesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFunctions/MyFunctions.iml" filepath="$PROJECT_DIR$/MyFunctions/MyFunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
+    </modules>
+  </component>
+</project>

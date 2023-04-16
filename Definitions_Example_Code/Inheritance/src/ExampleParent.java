@@ -1,6 +1,6 @@
 public class ExampleParent
 {
-        String name;
+        private String name;
         public ExampleParent()
         {
             this.name = "Parent Name";
